@@ -1,0 +1,25 @@
+{
+  "name": "react-native-timer",
+  "version": "0.1.0",
+  "description": "a timer component for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihgwu/react-native-timer.git"
+  },
+  "keywords": [
+    "timer",
+    "react",
+    "react",
+    "native"
+  ],
+  "author": "Neo <nihgwu@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nihgwu/react-native-timer/issues"
+  },
+  "homepage": "https://github.com/nihgwu/react-native-timer#readme"
+}
